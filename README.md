@@ -250,3 +250,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **Authentication issues**
    - Clear browser localStorage
    - Restart both frontend and backend servers
+
+
+
+OUTOUT : -
+
+<img width="1912" height="852" alt="Image" src="https://github.com/user-attachments/assets/f403aaff-b98c-4581-bc60-d26ad4eca9e3" />
