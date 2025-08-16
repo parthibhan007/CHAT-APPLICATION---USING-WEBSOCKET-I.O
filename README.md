@@ -1,5 +1,19 @@
 # 💬 Real-Time Chat Application
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME    : PARTHIBHAN R
+
+INTERN ID : CT04DY372
+
+DOMAIN : FULL STACK WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTIOR :  NEELA SANTHOSH
+
+DISCRIPTION : -
+
 A modern, professional real-time chat application built with React.js (frontend) and Node.js + Socket.IO (backend). Perfect for demonstrating full-stack development skills in internships and professional environments.
 
 ## ✨ Features
